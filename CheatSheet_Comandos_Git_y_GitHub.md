@@ -127,12 +127,6 @@ git show <tag/commit>
 ```bash
 # Clonar un repositorio desde GitHub
 git clone https://github.com/usuario/repositorio.git
-
-# Crear un fork de un repositorio en GitHub
-
-# Crear un pull request para proponer cambios
-
-# Crear y gestionar issues para reportar errores o sugerir mejoras
 ```
 
 ## Comandos Avanzados

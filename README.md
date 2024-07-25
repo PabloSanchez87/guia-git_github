@@ -29,6 +29,9 @@ Este repositorio contiene una serie de documentos en formato Markdown que cubren
 8. [**CheatSheet Comandos Git y GitHub**](CheatSheet_Comandos_Git_y_GitHub.md)
    - Hoja de referencia rápida con comandos esenciales de Git y GitHub para uso diario.
 
+## Claves SSH - Github
+[Guía de uso script para enlazar terminal local con Github](https://github.com/PabloSanchez87/Linux/blob/main/script-clavesSSH-github.md)
+
 ## Contribuciones
 
 Si tienes sugerencias o mejoras para estos documentos, siéntete libre de hacer un fork de este repositorio y enviar un pull request con tus cambios. ¡Toda contribución es bienvenida!
